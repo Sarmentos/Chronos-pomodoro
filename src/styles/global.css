@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  font-family: sans-serif;
+  font-size:  30px;
+}
+
+h1{
+  color: var(--primary);
+}
+
+p{
+  color: chartreuse;
+}
